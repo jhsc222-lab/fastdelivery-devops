@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastDelivery DevOps
 
 ## Projeto
@@ -26,3 +27,5 @@ Para subir todos os serviços:
 
 ```bash
 docker compose up --build
+=======
+# fastdelivery
